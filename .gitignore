@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+out/
+out.json
+out.srt
+long.json
+long.srt
+*.zip
